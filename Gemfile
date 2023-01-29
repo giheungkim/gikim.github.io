@@ -9,6 +9,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
+    gem 'jekyll-pdf-embed'
     gem 'jekyll-sitemap'
     gem 'jekyll-link-attributes'
     gem 'jekyll-twitter-plugin'
