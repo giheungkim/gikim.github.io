@@ -9,10 +9,10 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>419A Vance Hall</p> 
-    <p>Real Estate Department</p> 
-    <p>Wharton School</p>
-    <p>University of Pennsylvania</p>
+    <p>419A Vance Hall, </p> 
+    <p>Real Estate Department, </p> 
+    <p>Wharton School, </p>
+    <p>University of Pennsylvania, </p>
     <p>Philadephia, PA 19104</p>
 
 news: false # includes a list of news items
