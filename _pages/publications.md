@@ -4,7 +4,7 @@ permalink: /publications/
 title: Research
 description: 
 pubyears: [2021]
-wpyears: [2019]
+wpyears: [2019, 2023]
 wipyears: []
 nav: true
 nav_order: 1
