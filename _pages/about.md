@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <b>Research Areas</b>: Industrial Organization, Real Estate, Household Finance
 
-I study the industrial organization of real estate market, including single-family, multifamily, and housing mortgage sectors.
+I study the industrial organization of real estate market, including single-family, multifamily, commercial real estate, and housing mortgage sectors.
 
 Here is a link to my [CV](/assets/pdf/cv.pdf).
 
