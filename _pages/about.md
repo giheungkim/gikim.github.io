@@ -19,8 +19,10 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I study real estate and household finance markets using various tools from the empirical industrial organization literature. My research focuses on sources of market power in the real estate value chain, including the single-family, multifamily, and housing mortgage sectors. Along with causal inference methods, I use theoretical and empirical models of consumer search and demand, business-to-business contracting, and competition among firms to assess broader economic implications. 
+<b>Research Areas</b>: Industrial Organization, Real Estate, Household Finance
+
+I study the industrial organization of real estate market, including single-family, multifamily, and housing mortgage sectors.
 
 Here is a link to my [CV](/assets/pdf/cv.pdf).
 
-<b>Research Interests</b>: Industrial Oragnization, Real Estate, Household Finance, Urban
+<i>"Gi" is pronounced as "ghee".<i> 
